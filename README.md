@@ -43,4 +43,4 @@ Program1.java: Simple Calculator Using Class
 - Takes a  list of integers.
 - Counts how many numbers are divisible by each digit from `1` to `9`.
 - Outputs a dictionary-style count for each divisor
-
+- commit
